@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "サクラ咲ケ",
+  "base_artist": "嵐",
+  "createdAt": "2026-03-03T10:17:52.816810Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "サクラ咲ケ (嵐)",
+      "artist": "Vega☆オルゴール",
+      "has_synced": false,
+      "path": "select/01_サクラ咲ケ_(嵐)_Vega☆オルゴール.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "サクラ咲ケ",
+      "artist": "ARASHI",
+      "has_synced": true,
+      "path": "select/02_サクラ咲ケ_ARASHI.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "サクラ咲ケ",
+      "artist": "嵐",
+      "has_synced": true,
+      "path": "select/03_サクラ咲ケ_嵐.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "サクラ咲ケ",
+      "artist": "嵐",
+      "has_synced": false,
+      "path": "select/pl_01_サクラ咲ケ_嵐.txt"
+    }
+  ]
+}
